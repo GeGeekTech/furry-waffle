@@ -23,7 +23,7 @@ Variables Updated:
 			- License has been moved
 			- Google has been moved
 			- Google has been updated
-			- Updater has been started / Installer / Main / 
+			- Updater has been started / Installer / Main / **1
 			- Updating installer
 			- License is now running and active (Needs to be moved)**
 			- Updated Search routines updated with string (x+c=reference);(x+g=reference);(x+g1=reference)
@@ -42,3 +42,12 @@ Variables Updated:
 			- 
 			- 
 			- 
+
+
+
+
+
+
+
+
+**1: Working on a module to have the updater installed.
