@@ -11,23 +11,23 @@ Date: September 2019
 
 Variables Updated:
 
-			- Context Menu
-			- Search routines updated with string (x+c=reference);
-			- Search routines updated with string (x+b=reference); (This one references logging)
-			- Search routines updated with string (databound+ipaddress);
-			- Moved the setting for debugging
-			- Placed the action text for the download >> now includes using https
-			- Updating thread to Microsoft changed to now include the asp?=result
-			- Exit result moved
-			- Google has been updated
-			- License has been moved
-			- Google has been moved
-			- Google has been updated
-			- Updater has been started / Installer / Main / **1
-			- Updating installer
-			- License is now running and active (Needs to be moved)**
-			- Updated Search routines updated with string (x+c=reference);(x+g=reference);(x+g1=reference)
-			- Registration check with installer (Updating)**
+			- Context Menu - March 2019
+			- Search routines updated with string (x+c=reference); - March 2019
+			- Search routines updated with string (x+b=reference); (This one references logging) - march 2019
+			- Search routines updated with string (databound+ipaddress); - March 2019
+			- Moved the setting for debugging - April 2019
+			- Placed the action text for the download >> now includes using https - May 2019
+			- Updating thread to Microsoft changed to now include the asp?=result - May 2019
+			- Exit result moved - May 2019
+			- Google has been updated - June 2019
+			- License has been moved - July 2019
+			- Google has been moved - June 2019
+			- Google has been updated - July 2019
+			- Updater has been started / Installer / Main / **1 - June 2019
+			- Updating installer - July 2019
+			- License is now running and active (Needs to be moved)** - August 2019
+			- Updated Search with string (x+c=reference);(x+g=reference);(x+g1=reference) - August 2019
+			- Registration check with installer (Updating)** - September
 			- 
 			- 
 			- 
