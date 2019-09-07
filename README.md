@@ -27,9 +27,9 @@ Variables Updated:
 			- Updating installer - July 2019
 			- License is now running and active (Needs to be moved)** - August 2019
 			- Updated Search with string (x+c=reference);(x+g=reference);(x+g1=reference) - August 2019
-			- Registration check with installer (Updating)** - September
-			- 
-			- 
+			- Registration check with installer (Updating)** - September 2019
+			- Updating menu structure and moving content - September 2019
+			- Added Online Database to menu structure from add new (Easier to access)
 			- 
 			- 
 			- 
