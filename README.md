@@ -1,7 +1,7 @@
 # furry-waffle
 Toolkit Changelog
 
-Toolkit Version: 0.0.1.0
+Toolkit Version: 0.0.0.1
 Build Version: 0.0.87
 
 Updated Core: Yes
