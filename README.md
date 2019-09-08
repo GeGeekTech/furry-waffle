@@ -30,8 +30,8 @@ Variables Updated:
 			- Registration check with installer (Updating)** - September 2019
 			- Updating menu structure and moving content - September 2019
 			- Added Online Database to menu structure from add new (Easier to access)
-			- 
-			- 
+			- Back onboard with the Updater, thanks to Mad for your input
+			- Updater now seems to be working, just need to work on the error it produces if you click the update a second time - September 2019
 			- 
 			- 
 			- 
