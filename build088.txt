@@ -1,7 +1,7 @@
 Toolkit Changelog
 
 Toolkit Version: 0.0.0.1
-Build Version: 0.0.87
+Build Version: 0.0.88
 
 Updated Core: Yes - WIP
 Date: September 2019
